@@ -1,4 +1,3 @@
-name = 'sriram'
 
 if name == 'sriram':
     print('ok')
